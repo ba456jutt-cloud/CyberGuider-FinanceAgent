@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+python-multipart
+google-generativeai
+dataset
+fpdf
+Pillow
+requests
+beautifulsoup4
+python-whois
